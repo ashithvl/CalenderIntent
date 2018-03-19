@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CalenderIntent</string>
+    <string name="set_event">Set Event</string>
+    <string name="set_remainder">Set Remainder</string>
+    <string name="delete_event">Delete Event</string>
+</resources>
